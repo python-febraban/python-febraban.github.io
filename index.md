@@ -12,7 +12,7 @@ Implementação em python do layout febraban
      - Utilizaremos as libs PyBoleto e cnab240 como base;
      - Nos próximos dias entraremos em contato com os bancos para buscar mais informações sobre as plataformas de cobrança;
    - Presentes:
-     - Albert Fuentes;
+     - Albert De La Fuente;
      - Aristides Caldeira;
      - Daniel Goncalves;
      - Luis Felipe Mileo;
