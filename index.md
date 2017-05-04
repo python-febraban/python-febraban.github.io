@@ -7,8 +7,12 @@ Implementação em python do layout febraban
 
 - 2017-05-04: Criação do projeto na organização no github (https://github.com/python-febraban);
 - 2017-05-03: Grupo no telegram para discussão (https://t.me/python_febraban);
-- 2017-05-04: Hangout de alinhamento, presentes:
-   - Albert Fuentes;
-   - Aristides Caldeira;
-   - Daniel Goncalves;
-   - Luis Felipe Mileo;
+- 2017-05-04: Hangout de alinhamento:
+  - Definicoes:
+     - Utilizaremos as libs PyBoleto e cnab240 como base;
+     - Nos próximos dias entraremos em contato com os bancos para buscar mais informações sobre as plataformas de cobrança;
+   - Presentes:
+     - Albert Fuentes;
+     - Aristides Caldeira;
+     - Daniel Goncalves;
+     - Luis Felipe Mileo;
