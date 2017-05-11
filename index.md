@@ -16,3 +16,15 @@ Implementação em python do layout febraban
      - Aristides Caldeira;
      - Daniel Goncalves;
      - Luis Felipe Mileo;
+- 2017-05-10: Hangout de alinhamento:
+   - Presentes:
+      - Albert De La Fuente;
+      - Aristides Caldeira;
+      - Luis Felipe Mileo;
+      - Maxwell Oliveira;
+      - Leandro Braga;
+   - Definicoes:
+     - Criação de uma pasta no google drive para manter organizar as documentaçes: https://docs.google.com/spreadsheets/d/1evmemI4tmJQ5Wzuw4YC5ZmEG4p8TDAxq-iV5JeBOoes
+     - Relação de Forks com modificaçoes: https://docs.google.com/spreadsheets/d/1evmemI4tmJQ5Wzuw4YC5ZmEG4p8TDAxq-iV5JeBOoes/edit#gid=0
+     - Definiçao dos responsaveis pela implementacao em cada banco na coluna responsável;
+     - Luis Mileo ficou responsavel de realizar o filter branch de todas as contribuicoes
